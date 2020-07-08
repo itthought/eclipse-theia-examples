@@ -19,6 +19,7 @@
     "terminal-example",
     "backend-example",
     "browser-app",
-    "electron-app"
+    "electron-app",
+    "tg-editor-menu"
   ]
 }
